@@ -13,7 +13,6 @@ public class ArrayDeque<Item>{
 	}
 
 
-
 	private int plusOne(int index){
 		int i = index + 1;
 		if (i==items.length) {
